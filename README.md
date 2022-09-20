@@ -3,9 +3,11 @@ web3-react Vue version, forked from [web3-react V8](https://github.com/Uniswap/w
 
 The state of web3-vuejs is managed by Pinia.
 
+This is a hosted version of we3-vuejs-example at [https://web3-vuejs-example.vercel.app](https://web3-vuejs-example.vercel.app).
+
 ## Example
 
-You can Reach the example at [web3-vuejs-example](https://github.com/web3-vue/web3-vuejs-example).
+You can Reach the example at [web3-vuejs-example](https://github.com/wlchn/web3-vuejs-example).
 
 
 ## Getting Started
