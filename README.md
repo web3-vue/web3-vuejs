@@ -12,11 +12,11 @@ You can Reach the example at [web3-vuejs-example](https://github.com/wlchn/web3-
 
 ## Getting Started
 
-### installation
+### Installation
 
 Add packages
 ``` shell
-yarn add pinia, web3-vuejs
+yarn add pinia web3-vuejs
 ```
 Use Pinia 
 ``` javascript

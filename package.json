@@ -1,6 +1,6 @@
 {
   "name": "web3-vuejs",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "web3-vuejs forked web3-react, web3 vue vuejs",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
