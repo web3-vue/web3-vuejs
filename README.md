@@ -33,7 +33,7 @@ app.mount('#app')
 
 ### Create a Connector
 eg. create a `connectors/metamask`.
-```
+``` javascript
 import { MetaMask } from '@web3-react/metamask';
 import { initializeConnector } from 'web3-vuejs';
 
@@ -72,5 +72,6 @@ onMounted(() => {
 ```
 
 ### TODO 
-[ ] useProvider
-[ ] useENS
+- [ ] useProvider
+- [ ] useENS
+- [ ] correct connector type
