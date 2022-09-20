@@ -5,7 +5,7 @@ The state of web3-vuejs is managed by Pinia.
 
 ## Example
 
-You can Reach the example at [web3-vuejs-example](https://github.com/web3-vuejs/web3-vuejs-example)
+You can Reach the example at [web3-vuejs-example](https://github.com/web3-vue/web3-vuejs-example)
 
 
 ## Getting Started
