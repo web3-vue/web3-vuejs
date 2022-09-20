@@ -5,7 +5,7 @@ The state of web3-vuejs is managed by Pinia.
 
 ## Example
 
-You can Reach the example at [web3-vuejs-example](https://github.com/web3-vue/web3-vuejs-example)
+You can Reach the example at [web3-vuejs-example](https://github.com/web3-vue/web3-vuejs-example).
 
 
 ## Getting Started
@@ -32,7 +32,7 @@ app.mount('#app')
 ```
 
 ### Create a Connector
-eg. create a `connectors/metamask`
+eg. create a `connectors/metamask`.
 ```
 import { MetaMask } from '@web3-react/metamask';
 import { initializeConnector } from 'web3-vuejs';
@@ -45,6 +45,7 @@ export const useConnector = () => {
 }
 ```
 ### Use Connector
+Use `useConnector` in Vue.
 ``` vue
 <script setup lang="ts">
 import { onMounted } from "vue";
